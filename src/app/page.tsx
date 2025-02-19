@@ -25,6 +25,7 @@ export default function MyWalletList() {
             </TableRow>
           </TableBody>
         </Table>
+        
       </div>
     </div>
   );
